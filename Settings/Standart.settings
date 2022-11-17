@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Rations_V2.Settings" GeneratedClassName="Standart">
+  <Profiles />
+  <Settings>
+    <Setting Name="StandartMeatActivityCs" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1250</Value>
+    </Setting>
+    <Setting Name="StandartMilkActivityCs" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="StandartMilkActivitySr" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">125</Value>
+    </Setting>
+    <Setting Name="MeasureOfInaccuracy" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

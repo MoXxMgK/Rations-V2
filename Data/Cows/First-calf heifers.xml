@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rations>
+  <weigth data="500">
+    <milk data="12">
+      <nel>69.9</nel>
+      <pdi>944</pdi>
+      <calcium>61</calcium>
+      <phosphorus>49</phosphorus>
+      <dry-matter>13.1</dry-matter>
+      <aminoacides>1541</aminoacides>
+      <fibre>2.64</fibre>
+    </milk>
+    <milk data="16">
+      <nel>83.5</nel>
+      <pdi>1144</pdi>
+      <calcium>77</calcium>
+      <phosphorus>60</phosphorus>
+      <dry-matter>14.1</dry-matter>
+      <aminoacides>1881</aminoacides>
+      <fibre>2.78</fibre>
+    </milk>
+    <milk data="20">
+      <nel>97.3</nel>
+      <pdi>1344</pdi>
+      <calcium>93</calcium>
+      <phosphorus>71</phosphorus>
+      <dry-matter>15.2</dry-matter>
+      <aminoacides>2221</aminoacides>
+      <fibre>2.90</fibre>
+    </milk>
+    <milk data="24">
+      <nel>111.4</nel>
+      <pdi>1544</pdi>
+      <calcium>109</calcium>
+      <phosphorus>81</phosphorus>
+      <dry-matter>16.3</dry-matter>
+      <aminoacides>2561</aminoacides>
+      <fibre>2.98</fibre>
+    </milk>
+    <milk data="28">
+      <nel>125.7</nel>
+      <pdi>1744</pdi>
+      <calcium>125</calcium>
+      <phosphorus>92</phosphorus>
+      <dry-matter>17.4</dry-matter>
+      <aminoacides>2901</aminoacides>
+      <fibre>2.04</fibre>
+    </milk>
+     <milk data="32">
+      <nel>139.0</nel>
+      <pdi>1944</pdi>
+      <calcium>141</calcium>
+      <phosphorus>103</phosphorus>
+      <dry-matter>18.4</dry-matter>
+      <aminoacides>3241</aminoacides>
+      <fibre>3.06</fibre>
+    </milk>
+  </weigth>
+  <weigth data="550">
+    <milk data="12">
+      <nel>72.3</nel>
+      <pdi>969</pdi>
+      <calcium>63</calcium>
+      <phosphorus>51</phosphorus>
+      <dry-matter>13.7</dry-matter>
+      <aminoacides>1580</aminoacides>
+      <fibre>2.78</fibre>
+    </milk>
+    <milk data="16">
+      <nel>85.9</nel>
+      <pdi>1169</pdi>
+      <calcium>78</calcium>
+      <phosphorus>61</phosphorus>
+      <dry-matter>14.7</dry-matter>
+      <aminoacides>1920</aminoacides>
+      <fibre>2.93</fibre>
+    </milk>
+    <milk data="20">
+      <nel>99.7</nel>
+      <pdi>1369</pdi>
+      <calcium>94</calcium>
+      <phosphorus>72</phosphorus>
+      <dry-matter>15.8</dry-matter>
+      <aminoacides>2260</aminoacides>
+      <fibre>3.05</fibre>
+    </milk>
+    <milk data="24">
+      <nel>113.8</nel>
+      <pdi>1569</pdi>
+      <calcium>110</calcium>
+      <phosphorus>83</phosphorus>
+      <dry-matter>16.9</dry-matter>
+      <aminoacides>2600</aminoacides>
+      <fibre>3.13</fibre>
+    </milk>
+    <milk data="28">
+      <nel>127.0</nel>
+      <pdi>1769</pdi>
+      <calcium>126</calcium>
+      <phosphorus>94</phosphorus>
+      <dry-matter>18.0</dry-matter>
+      <aminoacides>2940</aminoacides>
+      <fibre>3.18</fibre>
+    </milk>
+    <milk data="32">
+      <nel>141.4</nel>
+      <pdi>1969</pdi>
+      <calcium>142</calcium>
+      <phosphorus>104</phosphorus>
+      <dry-matter>19.0</dry-matter>
+      <aminoacides>3280</aminoacides>
+      <fibre>3.20</fibre>
+    </milk>
+  </weigth>
+<weigth data="600">
+    <milk data="12">
+      <nel>74.5</nel>
+      <pdi>994</pdi>
+      <calcium>64</calcium>
+      <phosphorus>52</phosphorus>
+      <dry-matter>14.3</dry-matter>
+      <aminoacides>1680</aminoacides>
+      <fibre>2.93</fibre>
+    </milk>
+    <milk data="16">
+      <nel>88.2</nel>
+      <pdi>1194</pdi>
+      <calcium>80</calcium>
+      <phosphorus>62</phosphorus>
+      <dry-matter>15.3</dry-matter>
+      <aminoacides>1958</aminoacides>
+      <fibre>3.08</fibre>
+    </milk>
+    <milk data="20">
+      <nel>102.1</nel>
+      <pdi>1394</pdi>
+      <calcium>96</calcium>
+      <phosphorus>73</phosphorus>
+      <dry-matter>16.5</dry-matter>
+      <aminoacides>2298</aminoacides>
+      <fibre>3.19</fibre>
+    </milk>
+    <milk data="24">
+      <nel>115.1</nel>
+      <pdi>1594</pdi>
+      <calcium>112</calcium>
+      <phosphorus>84</phosphorus>
+      <dry-matter>17.5</dry-matter>
+      <aminoacides>2638</aminoacides>
+      <fibre>3.28</fibre>
+    </milk>
+    <milk data="28">
+      <nel>129.3</nel>
+      <pdi>1794</pdi>
+      <calcium>128</calcium>
+      <phosphorus>95</phosphorus>
+      <dry-matter>18.6</dry-matter>
+      <aminoacides>2978</aminoacides>
+      <fibre>3.33</fibre>
+    </milk>
+    <milk data="32">
+      <nel>143.8</nel>
+      <pdi>1994</pdi>
+      <calcium>144</calcium>
+      <phosphorus>106</phosphorus>
+      <dry-matter>19.6</dry-matter>
+      <aminoacides>3318</aminoacides>
+      <fibre>3.35</fibre>
+    </milk>
+  </weigth>
+<weigth data="650">
+    <milk data="12">
+      <nel>76.8</nel>
+      <pdi>1018</pdi>
+      <calcium>65</calcium>
+      <phosphorus>53</phosphorus>
+      <dry-matter>14.9</dry-matter>
+      <aminoacides>1655</aminoacides>
+      <fibre>3.07</fibre>
+    </milk>
+    <milk data="16">
+      <nel>90.4</nel>
+      <pdi>1218</pdi>
+      <calcium>81</calcium>
+      <phosphorus>63</phosphorus>
+      <dry-matter>15.9</dry-matter>
+      <aminoacides>1995</aminoacides>
+      <fibre>3.22</fibre>
+    </milk>
+    <milk data="20">
+      <nel>103.3</nel>
+      <pdi>1418</pdi>
+      <calcium>97</calcium>
+      <phosphorus>74</phosphorus>
+      <dry-matter>17.0</dry-matter>
+      <aminoacides>2335</aminoacides>
+      <fibre>3.34</fibre>
+    </milk>
+    <milk data="24">
+      <nel>117.4</nel>
+      <pdi>1618</pdi>
+      <calcium>113</calcium>
+      <phosphorus>85</phosphorus>
+      <dry-matter>18.1</dry-matter>
+      <aminoacides>2675</aminoacides>
+      <fibre>3.42</fibre>
+    </milk>
+    <milk data="28">
+      <nel>131.6</nel>
+      <pdi>1818</pdi>
+      <calcium>129</calcium>
+      <phosphorus>96</phosphorus>
+      <dry-matter>19.2</dry-matter>
+      <aminoacides>3015</aminoacides>
+      <fibre>3.47</fibre>
+    </milk>
+    <milk data="32">
+      <nel>144.8</nel>
+      <pdi>2018</pdi>
+      <calcium>145</calcium>
+      <phosphorus>107</phosphorus>
+      <dry-matter>20.2</dry-matter>
+      <aminoacides>3355</aminoacides>
+      <fibre>3.49</fibre>
+    </milk>
+  </weigth>
+<weigth data="700">
+    <milk data="12">
+      <nel>79.0</nel>
+      <pdi>1042</pdi>
+      <calcium>66</calcium>
+      <phosphorus>55</phosphorus>
+      <dry-matter>15.5</dry-matter>
+      <aminoacides>1691</aminoacides>
+      <fibre>3.21</fibre>
+    </milk>
+    <milk data="16">
+      <nel>92.7</nel>
+      <pdi>1242</pdi>
+      <calcium>82</calcium>
+      <phosphorus>64</phosphorus>
+      <dry-matter>16.5</dry-matter>
+      <aminoacides>2031</aminoacides>
+      <fibre>3.36</fibre>
+    </milk>
+    <milk data="20">
+      <nel>105.6</nel>
+      <pdi>1442</pdi>
+      <calcium>98</calcium>
+      <phosphorus>75</phosphorus>
+      <dry-matter>17.6</dry-matter>
+      <aminoacides>2371</aminoacides>
+      <fibre>3.47</fibre>
+    </milk>
+    <milk data="24">
+      <nel>119.6</nel>
+      <pdi>1642</pdi>
+      <calcium>114</calcium>
+      <phosphorus>86</phosphorus>
+      <dry-matter>18.7</dry-matter>
+      <aminoacides>2711</aminoacides>
+      <fibre>3.56</fibre>
+    </milk>
+    <milk data="28">
+      <nel>132.6</nel>
+      <pdi>1842</pdi>
+      <calcium>130</calcium>
+      <phosphorus>97</phosphorus>
+      <dry-matter>19.8</dry-matter>
+      <aminoacides>3051</aminoacides>
+      <fibre>3.61</fibre>
+    </milk>
+    <milk data="32">
+      <nel>147.0</nel>
+      <pdi>2042</pdi>
+      <calcium>146</calcium>
+      <phosphorus>108</phosphorus>
+      <dry-matter>20.8</dry-matter>
+      <aminoacides>3391</aminoacides>
+      <fibre>3.63</fibre>
+    </milk>
+  </weigth>
+</rations>

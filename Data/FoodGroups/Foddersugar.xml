@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<group>
+  <item name="Cukrovarské řízky sušené"
+        dm="900"
+        aac="92.4"
+        fibre="200.8"
+        sugar="64.4"
+        dProtein="56.56"
+        eProtein="85.68"
+        ca="9.1"
+        p="1.1"
+        nel="6.51"
+        nev="6.74"/>
+  <item name="Cukr krmný"
+        dm="998"
+        aac="1"
+        fibre="0"
+        sugar="995.4"
+        dProtein="61"
+        eProtein="91.32"
+        ca="0.3"
+        p="0.2"
+        nel="9.97"
+        nev="11.24"/>
+  <item name="Melasa"
+        dm="768"
+        aac="113.7"
+        fibre="1.7"
+        sugar="643.2"
+        dProtein="66.51"
+        eProtein="75.13"
+        ca="2.4"
+        p="0.3"
+        nel="7.57"
+        nev="8.19"/>
+ </group>
